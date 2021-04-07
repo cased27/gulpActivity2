@@ -1,0 +1,22 @@
+{
+  "name": "my-portfolio",
+  "version": "1.0.0",
+  "description": "gulpActivity2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "preinstall": "npx npm-force-resolutions"
+    },
+  "resolutions": {
+    "graceful-fs": "^4.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "gulpActivity2"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
+}
